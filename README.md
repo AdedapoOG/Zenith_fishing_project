@@ -1,4 +1,4 @@
-# Zenith_fishing_project
+# Detection Analysis Lab
 # 🛡️ Zenith Phishing Incident Response
 
 This project simulates the end-to-end detection, analysis, and response to a phishing email compromise targeting an IT company. It demonstrates skills in email forensics, SIEM analysis, and incident response reporting.
