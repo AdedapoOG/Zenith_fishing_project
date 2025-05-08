@@ -1,0 +1,10 @@
+Return-Path: <it-support@zenithsolutions.co.uk>
+Received: from spoofed-host.com ([185.220.101.12])
+Subject: Urgent: Reset Your Password Now
+MIME-Version: 1.0
+Content-Type: text/html
+Message-ID: <randomid@spoofedhost.com>
+Date: Tue, 1 Apr 2025 09:42:00 +0000
+To: employee@zenithsolutions.co.uk
+From: IT Support <it-support@zenithsolutions.co.uk>
+Authentication-Results: spf=fail (domain of zenithsolutions.co.uk does not designate 185.220.101.12 as permitted sender)

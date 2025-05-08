@@ -1,0 +1,30 @@
+
+Zenith Solutions Inc. – SOC Phishing Email Compromise: Intern Project Briefing Guide
+
+Objective:
+This simulation provides interns with a real-world scenario of a phishing email attack targeting Zenith Solutions Inc., an IT company.
+The goal is to detect, analyze, and respond to the phishing incident using standard SOC tools and techniques.
+
+Intern Responsibilities:
+- Analyze the phishing email to identify malicious indicators.
+- Investigate the email header and attached URLs for signs of spoofing or redirection.
+- Use VirusTotal to check malicious domains and hashes.
+- Review endpoint logs to verify any signs of credential misuse or suspicious activity.
+- Examine email forwarding rules to detect exfiltration mechanisms.
+- Document all findings, complete the IOC list, and fill out the incident report template.
+
+Expected Deliverables:
+- Updated IOC List
+- Detailed incident response report
+- Screenshots or notes from tool analysis
+- Final presentation of findings (optional)
+
+Key Learning Outcomes:
+- Mastery of SOC tools like PhishTool, VirusTotal, and CyberChef
+- Understanding of the MITRE ATT&CK techniques like T1566.001 (Phishing: Spearphishing Attachment)
+- Enhanced ability to interpret event logs and suspicious PowerShell activity
+- Realistic exposure to structured incident response
+
+Tools:
+- PhishTool, VirusTotal, CyberChef, PowerShell, Splunk/Graylog, JSON viewer
+

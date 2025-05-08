@@ -1,0 +1,13 @@
+
+User Interview Notes:
+
+1. User: jdoe
+   - "I received the email and it looked like a real IT message. I clicked on the link and typed my password. Nothing happened, so I thought the system was down."
+
+2. User: asmith
+   - "I didn’t click the link because I noticed the sender’s address seemed off. I reported it to IT."
+
+3. User: jsmith
+   - "I opened the email on my phone. I didn't click the link but forwarded it to a colleague."
+
+These insights indicate partial engagement and show how social engineering can vary in effectiveness.
